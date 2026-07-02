@@ -5,7 +5,7 @@
 ## 설치
 
 ```
-/plugin marketplace add <GitHub유저명>/arca-live-plugin
+/plugin marketplace add <GitHub유저명>/arca-live-with-claude
 /plugin install arca-live@arca-live
 ```
 
