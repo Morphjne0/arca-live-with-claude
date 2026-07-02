@@ -1,0 +1,15 @@
+{
+  "name": "arca-live-plugin",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "esbuild server-src/index.js --bundle --platform=node --format=esm --outfile=server/index.mjs \"--banner:js=import { createRequire } from 'module'; const require = createRequire(import.meta.url);\""
+  },
+  "devDependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.0",
+    "cheerio": "^1.0.0",
+    "esbuild": "^0.24.0",
+    "zod": "^3.24.0"
+  }
+}

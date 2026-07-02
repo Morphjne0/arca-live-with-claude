@@ -1,0 +1,11 @@
+{
+  "name": "arca-live",
+  "owner": { "name": "Morphjne" },
+  "plugins": [
+    {
+      "name": "arca-live",
+      "source": "./",
+      "description": "아카라이브 채널 검색 MCP + 더판글 자동 작성 스킬"
+    }
+  ]
+}

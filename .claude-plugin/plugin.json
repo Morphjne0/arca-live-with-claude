@@ -1,0 +1,7 @@
+{
+  "name": "arca-live",
+  "description": "아카라이브(arca.live) 채널 검색 MCP 서버 + 더판글 자동 작성 스킬. 게시 버튼은 항상 사용자가 직접 누릅니다.",
+  "version": "0.1.0",
+  "author": { "name": "Morphjne" },
+  "license": "MIT"
+}
